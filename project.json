@@ -3,5 +3,5 @@
     "frameRate"     : 60,
     "id"            : "gameCanvas",
     "renderMode"    : 1,
-    "jsList"        : []
+    "jsList"        : ["src/js/resource.js"]
 }
